@@ -1,4 +1,4 @@
-#!/Users/kamilayupov/Devel/MyProjects/3FrameworksChallange/DRFTodo/Todo/env/bin/python3.10
+#!/Users/kamilayupov/Devel/MyProjects/3_frameworks_challenge/DRFTodo/Todo/env/bin/python3.10
 # -*- coding: utf-8 -*-
 import re
 import sys
